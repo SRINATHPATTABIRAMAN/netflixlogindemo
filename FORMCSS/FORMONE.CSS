@@ -1,6 +1,9 @@
 body{
     
-    background: url("/FORMONEIMAGE/homepage.jpg");
+    background: url("./homepage.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 
 
 }
